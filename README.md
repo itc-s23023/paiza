@@ -15,3 +15,9 @@
 * [セクシー衣装](./codes/hatsukoi/hatsukoi_clothes3.py)
 
 ## プログラミングで彼女を作る
+* [つり目](./codes/mkgirl/ando2.py)
+* [ショートヘア](./codes/mkgirl/ando4.py)
+* [ポニテ](./codes/mkgirl/ando6.py)
+* [ツインテ](./codes/mkgirl/ando7.py)
+* [セーラー服](./codes/mkgirl/ando9.py)
+* [カーディガン](./codes/mkgirl/ando10.py)
